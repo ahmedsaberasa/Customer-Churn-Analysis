@@ -16,7 +16,7 @@ In this project, we analyze customer behavior, plans, and demographics to identi
 - 📉 Churn Analysis – Identify main reasons behind customer loss  
 - 👥 Customer Segmentation – Analyze different customer groups  
 - 📊 Plan & Contract Insights – Compare churn across plans  
-- 🌍 International Usage Impact – تأثير الخطط الدولية على العملاء  
+- 🌍 International Usage Impact – Impact of international plans on customers  
 - 📈 Interactive Dashboards – Clear and powerful visualizations  
 - 💡 Business Insights – Recommendations based on data  
 
